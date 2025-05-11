@@ -1,8 +1,8 @@
-# Santa 2024 Hamiltonians' solution
+# Santa 2024 tnr1337' solution
 
 ## Overview
 
-We employ an Iterated Local Search (ILS) framework for our solution. In broad terms, the process is as follows:
+I employ an Iterated Local Search (ILS) framework for our solution. In broad terms, the process is as follows:
 
 1. Perform a local (greedy) search on the current solution (sequence of words) to improve it.
 2. Once no further improvement is possible, use a "kick" (perturbation) to escape from the local optimum.
