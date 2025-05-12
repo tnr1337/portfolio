@@ -43,14 +43,6 @@ All data files are in the `data/` folder:
 
 Source: [Kaggle House Prices Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-### Usage
-
-```bash
-# Run data exploration and preprocessing in notebook
-# Open the Jupyter notebook
-jupyter notebook House_Prices.ipynb
-```
-
 ### Notebooks
 
 * `House_Prices.ipynb` — end-to-end EDA, feature engineering, and model building
