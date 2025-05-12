@@ -10,9 +10,7 @@ Predict house sale prices using advanced regression models and feature engineeri
 
 ### Table of Contents
 
-* [Installation](#installation)
 * [Dataset](#dataset)
-* [Usage](#usage)
 * [Notebooks](#notebooks)
 * [Model Training](#model-training)
 * [Evaluation](#evaluation)
@@ -20,17 +18,6 @@ Predict house sale prices using advanced regression models and feature engineeri
 * [Contributing](#contributing)
 * [License](#license)
 
-### Installation
-
-```bash
-# Clone repository
-git clone <repo-url>
-cd portfolio/Machine Learning/House Prices - Advanced Regression Techniques
-# (Optional) create virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate   # Windows
-```
 
 ### Dataset
 
