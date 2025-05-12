@@ -1,4 +1,4 @@
-# Santa 2024 tnr1337' solution
+# Santa 2024 @tnr1337 solution
 
 ## Overview
 
