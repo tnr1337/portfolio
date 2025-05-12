@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a passionate self-taught developer and data 
 
 - ✅ **01.** Housing Prices Competition - Predict house prices using regression
 - ✅ **02.** Santa 2024 Puzzle - Advanced permutation optimization task
-- [ ] **03.** Titanic Survival Prediction - Classic binary classification problem
+- ✅ **03.** Titanic Survival Prediction - Classic binary classification problem
 - [ ] **04.** AI Math Olympiad (Progress Prize 2) - Predict math problem categories
 - [ ] **05.** Crypto Price Movement Classifier - Predict price up/down using indicators
 - [ ] **06.** Stock Market Time Series Model - Forecast 4h prices using ML
